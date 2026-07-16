@@ -1,1 +1,0 @@
-Coloca aqui las fotos de la propiedad, nombradas: foto1.jpg, foto2.jpg, foto3.jpg, foto4.jpg (o las que necesites, agregando/quitando lineas <img> en el index.html)
